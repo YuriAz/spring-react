@@ -1,6 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-
 # dependencies
 front/node_modules
 front/.pnp
@@ -30,13 +29,13 @@ products/target/
 !products/**/src/test/**/target/
 
 ### STS ###
-products/.apt_generated
-products/.classpath
-products/.factorypath
-products/.project
-products/.settings
-products/.springBeans
-products/.sts4-cache
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
 ### IntelliJ IDEA ###
 products/.idea
@@ -55,4 +54,4 @@ products/build/
 !products/**/src/test/**/build/
 
 ### VS Code ###
-products/.vscode/
+.vscode/
