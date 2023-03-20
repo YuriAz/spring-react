@@ -3,7 +3,7 @@
 # dependencies
 front/node_modules
 front/.pnp
-front.pnp.js
+front/.pnp.js
 
 # testing
 front/coverage
@@ -12,11 +12,11 @@ front/coverage
 front/build
 
 # misc
-front.DS_Store
-front.env.local
-front.env.development.local
-front.env.test.local
-front.env.production.local
+front/.DS_Store
+front/.env.local
+front/.env.development.local
+front/.env.test.local
+front/.env.production.local
 
 front/npm-debug.log*
 front/yarn-debug.log*
@@ -24,21 +24,21 @@ front/yarn-error.log*
 
 HELP.md
 products/target/
-!products.mvn/wrapper/maven-wrapper.jar
+!products/.mvn/wrapper/maven-wrapper.jar
 !products/**/src/main/**/target/
 !products/**/src/test/**/target/
 
 ### STS ###
-products.apt_generated
-products.classpath
-products.factorypath
-products.project
-products.settings
-products.springBeans
-products.sts4-cache
+products/.apt_generated
+products/.classpath
+products/.factorypath
+products/.project
+products/.settings
+products/.springBeans
+products/.sts4-cache
 
 ### IntelliJ IDEA ###
-products.idea
+products/.idea
 products/*.iws
 products/*.iml
 products/*.ipr
@@ -54,4 +54,4 @@ products/build/
 !products/**/src/test/**/build/
 
 ### VS Code ###
-products.vscode/
+products/.vscode/
